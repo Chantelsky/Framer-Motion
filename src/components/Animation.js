@@ -2,11 +2,11 @@ import * as React from "react";
 import { motion } from "framer-motion";
 
 const styles = {
-  background: "white",
+  background: white,
   borderRadius: 30,
   width: 150,
   height: 150,
-  margin: "auto"
+  margin: auto
 };
 
 export const Animation = () => (
